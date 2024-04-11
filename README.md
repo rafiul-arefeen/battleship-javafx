@@ -18,3 +18,8 @@ This is a simple implementation of the classic Battleship game using JavaFX, Mav
 - After both players are done placing ships, the game commences.
 - Each player takes turn trying to hit the opponent's ship. If hit, the player gets another turn and the square turns red. If missed, the turn ends, the square turns blue and it's the opponent player's turn.
 - The game ends when one player sinks all of the opponent's ships.
+
+## Screenshots
+![Placing ships](screenshots/placingShips.png)
+![Placing ships finished](screenshots/placingShipsFinished.png)
+![Gameplay](screenshots/gameplay.png)
